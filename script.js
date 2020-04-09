@@ -8,3 +8,4 @@ h1{
 }
 
 const a = 100;
+const myFunc = {};
