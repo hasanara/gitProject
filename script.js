@@ -6,3 +6,5 @@ body {
 h1{
     color:red;
 }
+
+const a = 100;
