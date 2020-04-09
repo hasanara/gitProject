@@ -7,4 +7,8 @@ h1{
     color:red;
 }
 
-const b = hi there;
+
+const a = 100;
+const myFunc = {};
+
+
